@@ -1,0 +1,4 @@
+mkdir codeverse-frontend
+cd codeverse-frontend
+npx create-react-app .
+npm install @monaco-editor/react axios @mui/material @emotion/react @emotion/styled 

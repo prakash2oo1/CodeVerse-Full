@@ -1,0 +1,17 @@
+codeverse/
+├── api/
+│   ├── __init__.py
+│   ├── main.py
+│   └── routes/
+├── core/
+│   ├── __init__.py
+│   ├── transformer.py
+│   ├── analyzer.py
+│   └── validator.py
+├── models/
+│   ├── __init__.py
+│   └── schemas.py
+├── services/
+│   ├── __init__.py
+│   └── translation_service.py
+└── requirements.txt 
